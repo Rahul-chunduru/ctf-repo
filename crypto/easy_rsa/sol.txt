@@ -1,0 +1,11 @@
+Given a, n(= p * q), we have, 
+
+pow(a, phi(n), n) = 1
+if p, q are primes, phi(n) = (p - 1) * (q - 1)
+
+Therefore, the inverse of pow(a, n - p - q, n) is a,
+which can be calucuated.
+
+given (x * p + y * q) mod n, p *q, one can compute p, q.
+
+In RSA, factorising the public key solves the problem.
