@@ -1,5 +1,0 @@
-From DownCTF2020 https://downunderctf.com/
-
-Given, an output file and a py file that generated it,
-we need to extract rsa-encrypted message.
-
